@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/photos/blue-banner-with-php-language-code-on-development-monitor-coding-picture-id1328641777?s=2048x2048)]
+
 <h1 align="center">Hi 👋, I'm Menna abdelsalam</h1>
 <h3 align="center">A computer engineering student from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
