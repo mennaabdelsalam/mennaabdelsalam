@@ -3,25 +3,24 @@
 <h3 align="center">A Software engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
 
--I am a software engineer with 1 year of experience, I graduated from the faculty of engineering at Alexandria University, Computer, and Communication Department.
+- I am a software engineer with 1 year of experience, I graduated from the faculty of engineering at Alexandria University, Computer, and Communication Department.
      
--I am a mobile developer freelancer, I helped many clinical and medical students to visualize their work on interactive mobile apps.
+- I am a mobile developer freelancer, I helped many clinical and medical students to visualize their work on interactive mobile apps.
      
--Also, I dove into many fields of computer science such as web development, mobile development, machine learning, and deep learning.
+- Also, I dove into many fields of computer science such as web development, mobile development, machine learning, and deep learning.
      
--I consider myself an eager learner, and hard worker, I am very skilled in problem-solving and competitive programming.
+- I consider myself an eager learner, and hard worker, I am very skilled in problem-solving and competitive programming.
      
--🔭 I’m currently working on **Deeplearning project** pose detection model deployed in a mobile application.
+- 🔭 I’m currently working on **Deeplearning project** pose detection model deployed in a mobile application.
 
--🌱 I’m currently learning **Neural Networks and Deep Learning course on coursera**
+- 🌱 I’m currently learning **Neural Networks and Deep Learning course on coursera**
 
--💬 Ask me about **Problem solving/flutter/machine learning/sql**
+- 💬 Ask me about **Problem solving/flutter/machine learning/sql**
 
--📫 How to reach me **menaabdelmeguid22@gmail.com**
+- 📫 How to reach me **menaabdelmeguid22@gmail.com**
 
--📄 Know about my experiences [https://mennaportofolio.web.app/#/] (https://mennaportofolio.web.app/#/)
-
--⚡ Fun fact **I do new bugs will solving the old ones**
+- 📄 Know about my experiences you can visit my website: [https://mennaportofolio.web.app/#/] 
+- ⚡ Fun fact **I do new bugs will solving the old ones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
