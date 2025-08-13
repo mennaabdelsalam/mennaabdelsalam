@@ -3,9 +3,9 @@
 <h3 align="center">A Software engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
 
-- I am a software engineer with 1 year of experience, I graduated from the faculty of engineering at Alexandria University, Computer, and Communication Department.
+- I am a software engineer with 3 year of experience, I graduated from the faculty of engineering at Alexandria University, Computer, and Communication Department.
      
-- I am a mobile developer freelancer, I helped many clinical and medical students to visualize their work on interactive mobile apps.
+- I am an Oracle Technical Consultant SAAS and PAAS with 2 years of experience I worked with 3 of the top tech companies ,also I am a mobile developer freelancer, I helped many clinical and medical students to visualize their work on interactive mobile apps.
      
 - Also, I dove into many fields of computer science such as web development, mobile development, machine learning, and deep learning.
      
